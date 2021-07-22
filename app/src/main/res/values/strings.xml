@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Desperado</string>
+    <string name="refreshActivityButtonText">Refresh</string>
+</resources>
